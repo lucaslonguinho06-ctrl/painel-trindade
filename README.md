@@ -1,2 +1,3 @@
-# painel-trindade
-Painel Trindade (página protegida por senha)
+# Painel Trindade
+
+Página protegida por senha. Os dados ficam criptografados no arquivo index.html.
